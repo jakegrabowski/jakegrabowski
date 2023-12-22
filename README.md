@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=jakegrabowski&show_icons=true&include_all_commits=true)](https://github.com/jakegrabowski/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jakegrabowski&layout=compact)](https://github.com/jakegrabowski/github-readme-stats)
+<!-- [![Github stats](https://github-readme-stats.vercel.app/api?username=jakegrabowski&show_icons=true&include_all_commits=true)](https://github.com/jakegrabowski/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jakegrabowski&layout=compact)](https://github.com/jakegrabowski/github-readme-stats) -->
 
 <p>
   <img src="https://cdn.simpleicons.org/typescript" alt="Typescript" align="left" width="19" height="19" />
