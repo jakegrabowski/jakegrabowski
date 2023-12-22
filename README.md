@@ -1,4 +1,4 @@
-## Hey 👋, [![Github Badge](https://img.shields.io/badge/-jakegrabowski-grey?style=flat&logo=github&logoColor=white&link=https://github.com/jakegrabowski/)](https://www.github.com/jakegrabowski/) 
+## Hey 👋, [![Github Badge](https://img.shields.io/badge/-jakegrabowski-grey?style=flat&logo=github&logoColor=white&link=https://github.com/jakegrabowski/)](https://www.github.com/jakegrabowski/)
 
 <!--
 **jakegrabowski/jakegrabowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=jakegrabowski&show_icons=true&include_all_commits=true)](https://github.com/jakegrabowski/github-readme-stats)
