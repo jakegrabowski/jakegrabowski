@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 <p>
   <img src="https://cdn.simpleicons.org/typescript" alt="Typescript" align="left" width="19" height="19" />
+  <img src="https://cdn.simpleicons.org/awslambda" alt="AWS Lambda" align="left" width="19" height="19" />
   <img src="https://cdn.simpleicons.org/nodedotjs" alt="Node" align="left" width="19" height="19" />
   <img src="https://cdn.simpleicons.org/python" alt="Python" align="left" width="19" height="19" />
   <img src="https://cdn.simpleicons.org/amazonaws" alt="AWS" align="left" width="19" height="19" />
   <img src="https://cdn.simpleicons.org/awsfargate" alt="AWS Fargate" align="left" width="19" height="19" />
-  <img src="https://cdn.simpleicons.org/awslambda" alt="AWS Lambda" align="left" width="19" height="19" />
   <img src="https://cdn.simpleicons.org/akamai" alt="Akamai Linode" align="left" width="19" height="19" />
 
   <img src="https://komarev.com/ghpvc/?username=jakegrabowski" align="right" alt="jakegrabowski" />
